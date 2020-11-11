@@ -1,0 +1,12 @@
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Domain\bin\Debug\netcoreapp3.1\CoinApp.Domain.deps.json
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Domain\bin\Debug\netcoreapp3.1\CoinApp.Domain.dll
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Domain\bin\Debug\netcoreapp3.1\CoinApp.Domain.pdb
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Domain\obj\Debug\netcoreapp3.1\CoinApp.Domain.csprojAssemblyReference.cache
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Domain\obj\Debug\netcoreapp3.1\CoinApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Domain\obj\Debug\netcoreapp3.1\CoinApp.Domain.AssemblyInfo.cs
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Domain\obj\Debug\netcoreapp3.1\CoinApp.Domain.dll
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Domain\obj\Debug\netcoreapp3.1\CoinApp.Domain.pdb
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Domain\bin\Debug\netcoreapp3.1\CoinApp.Domain.runtimeconfig.json
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Domain\bin\Debug\netcoreapp3.1\CoinApp.Domain.runtimeconfig.dev.json
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Domain\obj\Debug\netcoreapp3.1\CoinApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Domain\obj\Debug\netcoreapp3.1\CoinApp.Domain.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.SharedModel\bin\Debug\netcoreapp3.1\CoinApp.SharedModel.deps.json
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.SharedModel\bin\Debug\netcoreapp3.1\CoinApp.SharedModel.dll
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.SharedModel\bin\Debug\netcoreapp3.1\CoinApp.SharedModel.pdb
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.SharedModel\obj\Debug\netcoreapp3.1\CoinApp.SharedModel.csprojAssemblyReference.cache
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.SharedModel\obj\Debug\netcoreapp3.1\CoinApp.SharedModel.AssemblyInfoInputs.cache
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.SharedModel\obj\Debug\netcoreapp3.1\CoinApp.SharedModel.AssemblyInfo.cs
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.SharedModel\obj\Debug\netcoreapp3.1\CoinApp.SharedModel.dll
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.SharedModel\obj\Debug\netcoreapp3.1\CoinApp.SharedModel.pdb
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.SharedModel\bin\Debug\netcoreapp3.1\CoinApp.SharedModel.runtimeconfig.json
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.SharedModel\bin\Debug\netcoreapp3.1\CoinApp.SharedModel.runtimeconfig.dev.json
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.SharedModel\obj\Debug\netcoreapp3.1\CoinApp.SharedModel.csproj.CoreCompileInputs.cache
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.SharedModel\obj\Debug\netcoreapp3.1\CoinApp.SharedModel.genruntimeconfig.cache

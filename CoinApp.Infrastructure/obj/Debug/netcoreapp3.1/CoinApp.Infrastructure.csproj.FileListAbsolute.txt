@@ -1,0 +1,15 @@
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Infrastructure\bin\Debug\netcoreapp3.1\CoinApp.Infrastructure.deps.json
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Infrastructure\bin\Debug\netcoreapp3.1\CoinApp.Infrastructure.dll
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Infrastructure\bin\Debug\netcoreapp3.1\CoinApp.Infrastructure.pdb
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Infrastructure\bin\Debug\netcoreapp3.1\CoinApp.Domain.dll
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Infrastructure\bin\Debug\netcoreapp3.1\CoinApp.Domain.pdb
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Infrastructure\obj\Debug\netcoreapp3.1\CoinApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Infrastructure\obj\Debug\netcoreapp3.1\CoinApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Infrastructure\obj\Debug\netcoreapp3.1\CoinApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Infrastructure\obj\Debug\netcoreapp3.1\CoinApp.Infrastructure.csproj.CopyComplete
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Infrastructure\obj\Debug\netcoreapp3.1\CoinApp.Infrastructure.dll
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Infrastructure\obj\Debug\netcoreapp3.1\CoinApp.Infrastructure.pdb
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Infrastructure\bin\Debug\netcoreapp3.1\CoinApp.Infrastructure.runtimeconfig.json
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Infrastructure\bin\Debug\netcoreapp3.1\CoinApp.Infrastructure.runtimeconfig.dev.json
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Infrastructure\obj\Debug\netcoreapp3.1\CoinApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dardi\source\repos\CoinApp\CoinApp.Infrastructure\obj\Debug\netcoreapp3.1\CoinApp.Infrastructure.genruntimeconfig.cache
